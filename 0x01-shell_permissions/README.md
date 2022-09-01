@@ -1,1 +1,1 @@
-script that changes the group owner to school for the file hello
+script that switches the current user to the user betty
