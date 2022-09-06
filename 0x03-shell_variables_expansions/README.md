@@ -1,1 +1,1 @@
-script that prints hello user, where user is the current Linux user
+shell looks into when looking for a program
