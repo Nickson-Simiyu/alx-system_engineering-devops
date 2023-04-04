@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+#task of creating a custom HTTP header response, but with Puppet
+
 exec { 'update':
   command => 'apt-get update',
   path    => ['/bin', '/usr/bin/'],
