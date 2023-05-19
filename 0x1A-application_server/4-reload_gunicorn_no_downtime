@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 # Find the Gunicorn master process ID
 master_pid=$(pgrep -f "gunicorn.*web_dynamic.2-hbnb:app")
